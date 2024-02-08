@@ -1,0 +1,12 @@
+C:\projects\ToDoList.API\ToDoList.Entity\bin\Debug\net6.0\ToDoList.Entity.deps.json
+C:\projects\ToDoList.API\ToDoList.Entity\bin\Debug\net6.0\ToDoList.Entity.dll
+C:\projects\ToDoList.API\ToDoList.Entity\bin\Debug\net6.0\ToDoList.Entity.pdb
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ToDoList.Entity.csproj.AssemblyReference.cache
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ToDoList.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ToDoList.Entity.AssemblyInfoInputs.cache
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ToDoList.Entity.AssemblyInfo.cs
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ToDoList.Entity.csproj.CoreCompileInputs.cache
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ToDoList.Entity.dll
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\refint\ToDoList.Entity.dll
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ToDoList.Entity.pdb
+C:\projects\ToDoList.API\ToDoList.Entity\obj\Debug\net6.0\ref\ToDoList.Entity.dll

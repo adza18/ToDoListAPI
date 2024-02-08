@@ -1,0 +1,15 @@
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.csproj.AssemblyReference.cache
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.AssemblyInfoInputs.cache
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.AssemblyInfo.cs
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.csproj.CoreCompileInputs.cache
+C:\projects\ToDoList.API\ToDoList.Application\bin\Debug\net6.0\ToDoList.Application.deps.json
+C:\projects\ToDoList.API\ToDoList.Application\bin\Debug\net6.0\ToDoList.Application.dll
+C:\projects\ToDoList.API\ToDoList.Application\bin\Debug\net6.0\ToDoList.Application.pdb
+C:\projects\ToDoList.API\ToDoList.Application\bin\Debug\net6.0\ToDoList.Entity.dll
+C:\projects\ToDoList.API\ToDoList.Application\bin\Debug\net6.0\ToDoList.Entity.pdb
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.csproj.CopyComplete
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.dll
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\refint\ToDoList.Application.dll
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ToDoList.Application.pdb
+C:\projects\ToDoList.API\ToDoList.Application\obj\Debug\net6.0\ref\ToDoList.Application.dll
